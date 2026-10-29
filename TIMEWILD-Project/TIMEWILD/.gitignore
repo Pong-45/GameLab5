@@ -1,0 +1,12 @@
+.godot/
+.godot-local/
+.runtime/
+.git/
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+.vscode/
+build/
+exports/
